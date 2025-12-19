@@ -1,0 +1,18 @@
+# Auto-generated from imports in *.py files under:
+#   C:\Users\amint\Desktop\PANTHEON RESEARCH\PYTHON\1_code_installer
+# Notes:
+# - This is best-effort; verify by creating a clean venv and running the app.
+# - Add any missing runtime-only deps that are imported dynamically.
+arch==7.2.0
+hmmlearn==0.3.3
+importlib_metadata==8.7.0
+matplotlib==3.10.1
+numpy==2.2.3
+pandas==2.2.3
+plotly==6.0.0
+python-dateutil==2.9.0.post0
+requests==2.32.3
+scipy==1.15.2
+streamlit==1.43.2
+yfinance==0.2.61
+openpyxl==3.1.2
